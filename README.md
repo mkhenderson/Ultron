@@ -1,2 +1,2 @@
 # Ultron
-I am making ultron.
+I am building a self-learning AI like Ultron.
